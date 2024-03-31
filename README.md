@@ -10,9 +10,9 @@ There is a step by step leading through the final prediction.
 2. Data visualization
 3. Data preparation for the model
 4. Classification algoritms: 
-   4.1. K-means 
-   4.2. Random Forest 
-   4.3. Sequential (deep learning) 
+   4.1. K-means  
+   4.2. Random Forest  
+   4.3. Sequential (deep learning)  
 5. Accuracy metrics
 
 I hope you enjoy this example! Feel free to reach out for any questions :)
